@@ -1,0 +1,32 @@
+.row .logo {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+.row  .image {
+    border-radius: 100%;
+   
+}
+.container .row .col .watch {
+    width: 100px;
+}
+.circulo{
+    height:100px;
+    width:100px;
+    background:gray;
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    border-radius:50px;
+ }
+.circulo.el {
+    margin-left: 100px;
+}
+.botones {
+    margin-left: 155px;
+}
+.second-title{
+    margin-left: 400px;
+}
+.third-title{
+    margin-left: 300px;
+}
